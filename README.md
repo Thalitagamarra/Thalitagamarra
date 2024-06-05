@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**Thalitagamarra/Thalitagamarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é thalita gamarra
 
-Here are some ideas to get you started:
+-estou estudando na alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou me desenvolvendo na linguagem Javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  ### voe entrar em contato comigo
+
+  gamarraoliveirathalitaroberta@GMAIL.COM
+  @thalitagamarra
+
+  ![image](https://github.com/Thalitagamarra/Thalitagamarra/assets/171811187/f07b8b77-4c16-4083-8d2b-8e7e06ee78ce)
+
